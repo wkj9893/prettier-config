@@ -1,10 +1,10 @@
-# `@wkj9893/prettier-config`
+# @wkj9893/prettier-config
 
-> My personal [Prettier](https://prettier.io) config.
+My personal [Prettier](https://prettier.io) config.
 
 ## Usage
 
-**Install**:
+### Install
 
 With NPM:
 
@@ -24,11 +24,11 @@ With PNPM:
 $ pnpm add -D @wkj9893/prettier-config
 ```
 
-**Edit `package.json`**:
+### Edit package.json:
 
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "@wkj9893/prettier-config"
 }
 ```
