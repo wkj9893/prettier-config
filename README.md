@@ -26,7 +26,7 @@ $ pnpm add -D @wkj9893/prettier-config
 
 **Edit `package.json`**:
 
-```json
+```jsonc
 {
   // ...
   "prettier": "@azz/prettier-config"
