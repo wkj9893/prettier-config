@@ -1,0 +1,13 @@
+{
+  "name": "@wkj9893/prettier-config",
+  "version": "1.0.0",
+  "author": "wkj",
+  "license": "MIT",
+  "main": "index.json",
+  "description": "my prettier config",
+  "homepage": "https://github.com/wkj9893/prettier-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkj9893/prettier-config.git"
+  }
+}
